@@ -1,0 +1,1 @@
+# squid-no-auth-headers
